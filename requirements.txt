@@ -1,0 +1,15 @@
+Xây dựng landing page ThawngLongEvi.com.vn
+
+Nội dung yêu cầu:
+
+- Mục tiêu chính: Bán hàng (Thúc đẩy giao dịch trực tiếp)
+- Mô tả chi tiết về sản phẩm/dịch vụ: Thi công Trạm xử lý nước thải quy mô nhỏ
+- Khách hàng mục tiêu: Nhà máy sản xuất tại các Khu công nghiệp, Cụm công nghiệp
+- Vấn đề hiện tại mà khách hàng đang gặp phải: Cần tìm nhà thầu thực hiện xây lắp Trạm xử lý nước thải quy mô nhỏ trong thời gian ngắn, đảm bảo đủ điều kiện để Cấp phép môi trường của Cụm
+- Nhu cầu của khách hàng khi tìm kiếm giải pháp này: Tìm nhà thầu chuyên môn, làm thật, và đạt kết quả để được hoạt động trong các Khu công nghiệp
+- Sản phẩm/dịch vụ của bạn giải quyết vấn đề của khách hàng như thế nào: Khi khách hàng có nhu cầu xây dựng trạm xử lý nước thải, công ty Thăng Long sẽ nghe yêu cầu của khách, lên hiện trường để khảo sát, báo giá và chốt Hợp đồng xây lắp. Sau đó sẽ thực hiện Gia công, Mua thiết bị và đem lên công trường lắp đặt, thực hiện vận hành và lấy mẫu nước thải đầu ra mang đi kiểm nghiệm. Kết quả phân tích mẫu chính là điều kiện cần thiết để làm Giấy phép môi trường
+- Các điểm nổi bật: Giải quyết đúng vấn đề Khách cần làm, Nhanh, Gọn và Kết quả sản phẩm đạt yêu cầu
+- Thông tin về Khách hàng tiêu biểu / Đối tác lớn / Lời chứng thực (Testimonial): Các cụm công nghiệp Cầu Giát (Hà Nam cũ_ Ninh Bình), Cẩm Thịnh (Cẩm Phả_ Quảng Ninh), Thụy Vân (Phú Thọ)...
+- Những thông tin cần thu thập từ khách hàng tiềm năng: Họ tên, SĐT, Email, Công ty, Vị trí, Công ty đã có trạm xử lý nước thải chưa.
+- Tông màu chủ đạo: Xanh lá cây
+- Thông điệp chính: Nhanh, Gọn, Tốt
